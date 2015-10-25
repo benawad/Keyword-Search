@@ -1,0 +1,248 @@
+46359
+A Content-Based Retrieval System for Medical Images
+John Anderson
+4
+database
+image-retrieval
+content-based
+medical
+
+83528
+Query by Example: the CANDID Approach
+Paul Kelly
+4
+database
+image-retrieval
+medical
+query-by-example
+
+93859
+Consistent Line Clusters for Building Recognition
+Yi Li
+4
+recognition
+buildings
+clustering
+lines
+
+37503
+The Virage Search Engine
+James Bach
+3
+image-retrieval
+search
+image-management
+
+47603
+Proximity Matching using Query Trees
+Ricardo Baeza-Yates
+3
+matching
+similarity
+query-trees
+
+75934
+Using the Triangle Inequality for Similarity-Based Retrieval
+John Barros
+3
+image-retrieval
+similarity
+triangle-inequality
+
+57474
+Triangle-Inequality-Based Pruning Algorithms
+Andy Berman
+4
+image-retrieval
+similarity
+triangle-inequality
+pruning
+
+38383
+Efficient Image Retrieval with Multiple Distance Measures
+Andy Berman
+3
+image-retrieval
+distance-measures
+triangle-inequality
+
+39393
+Region-Based Image Querying
+Chuck Carson
+3
+image-retrieval
+region-based
+blobs
+
+75036
+Image Stack Viewing and Access
+Alfonso Cardenas
+3
+image-stack
+image-display
+image-retrieval
+
+47550
+Knowledge-Based Image Retrieval with Spatial and Temporal Constraints
+Wesley Chu
+5
+image-retrieval
+knowledge
+spatial
+temporal
+medical
+
+038567
+3D Object Recognition and Pose with Relational Indexing
+Mauro Costa
+4
+recognition
+pose
+indexing
+matching
+
+93937
+Scaling Clustering Algorithms to Large Databases
+Paul Bradley
+2
+clustering
+database
+
+47320
+Machine Learning on Very Large Databases
+Joan Catlett
+2
+learning
+database
+
+77329
+Mining Observational Databases for Causal Relationships
+Gary Cooper
+3
+data-mining
+database
+causal-relationships
+
+85490
+An Algorithm for Discovering Clusters in Large Spatial Databases
+Maria Ester
+3
+clustering
+database
+spatial
+
+65722
+Searching Multimedia Databases by Content
+Chris Faloutsos
+3
+multimedia
+content-based
+database
+
+54326
+An Efficient Clustering Algorithm for Large Databases
+Soha Guha
+2
+clustering
+database
+
+85309
+A System for Mining Knowledge in Large Relational Databases
+Joseph Han
+4
+database
+relational
+data-mining
+knowledge
+
+39572
+Mining Patterns in Time-Related Databases
+Joseph Han
+3
+database
+data-mining
+time-related
+
+49375
+Mining Models from Large Databases in Constant Time
+Greg Hulten
+2
+data-mining
+database
+
+68583
+Learning from Hints in Neural Networks
+Yosama Mustafa
+2
+learning
+neural-networks
+
+89763
+Instance-Based Learning of Independent and Graded Concepts
+Dan Aha
+3
+learning
+instance-based
+concepts
+
+85711
+Instance-Based Learning Algorithms 
+Dan Aha
+2
+learning
+instance-based 
+
+79871
+Concept Learning and Flexible Weighting
+Dan Aha
+3
+learning
+concepts
+weighting
+
+12568
+Queries and Concept Learning
+Dave Angluin
+3
+queries
+concepts
+learning
+
+87124
+Learning for Content-Based Image Retrieval
+Tom Huang
+3
+learning
+content-based
+image-retrieval
+
+58765
+Noise-Tolerant Relational Concept Learning
+Chris Brunk
+3
+relational
+concepts
+learning
+
+74937
+Learning Classification Rules Using Neural Networks
+Wayne Bunt
+3
+learning
+classification-rules
+neural-networks
+
+65676
+A Theory of Learning Classification Rules
+Wayne Bunt
+2
+learning
+classification-rules
+
+45612
+Machine Learning in Information Retrieval
+Jaime Carbonell
+2
+learning
+information-retrieval
+
