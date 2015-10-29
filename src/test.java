@@ -1,4 +1,3 @@
-import java.util.Scanner;
 import java.io.*;
 
 
@@ -134,7 +133,7 @@ class test{
             T.a.get_records("medical" /*Insert keyword to be found here. "medical" is an example*/).print();
 
             
-            T.a.print(); // Prints titles of all elements in the bst sorted by keyword.
+//            T.a.print(); // Prints titles of all elements in the bst sorted by keyword.
             
             T.a.delete("medical");
             T.a.delete("learning");
