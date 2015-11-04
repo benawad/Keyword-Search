@@ -52,7 +52,7 @@ class FileData{
 class test{
 
     BufferedReader b;
-    bst a;
+    avl a;
 
 	/* Returns the next data record (a whole record object)
 	 * in the data input file. Returns null if there
@@ -98,7 +98,7 @@ class test{
     public test(String filename){
        try{
 
-           this.a = new bst();
+           this.a = new avl();
            this.b = new BufferedReader(new FileReader(filename));
             
            /* READS DATAFILE.TXT INTO DATASTRUCTURE  */
@@ -133,7 +133,7 @@ class test{
             T.a.get_records("medical" /*Insert keyword to be found here. "medical" is an example*/).print();
 
             
-//            T.a.print(); // Prints titles of all elements in the bst sorted by keyword.
+            T.a.print(); // Prints titles of all elements in the bst sorted by keyword.
             
             T.a.delete("medical");
             T.a.delete("learning");

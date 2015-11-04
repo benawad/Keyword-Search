@@ -42,12 +42,12 @@ class bst {
 		// TODO Write a recursive insertion that adds recordToAdd to the list of
 		// records for the node associated
 		// with keyword. If there is no node, this code should add the node.
+		// remove leading and trailing whitespace
+		keyword = keyword.trim();
 		insert(keyword, recordToAdd, root);
 	}
 
 	private void insert(String keyword, Record recordToAdd, Node root) {
-		// remove leading and trailing whitespace
-		keyword = keyword.trim();
 		// the root of the tree is null 
 		if (root == null) {
 			// create new node and make it the root
